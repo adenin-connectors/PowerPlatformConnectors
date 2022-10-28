@@ -1,0 +1,1 @@
+**Notion** is a project management and note-taking software platform designed to help members of companies or organizations coordinate deadlines, objectives, and assignments for greater efficiency and productivity. 
