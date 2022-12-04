@@ -1092,7 +1092,8 @@
             "x-ms-summary": "properties",
             "x-ms-url-encoding": "single"
           }
-        ]
+        ],
+        "x-at-scopes": "oauth crm.objects.contacts.read"
       },
       "post": {
         "responses": {
@@ -4529,17 +4530,17 @@
   "responses": {},
   "tags": [],
   "x-ms-connector-metadata": [
-      {
-        "propertyName": "Website",
-        "propertyValue": "https://www.hubspot.com/"
-      },
-      {
-        "propertyName": "Privacy policy",
-        "propertyValue": "https://legal.hubspot.com/privacy-policy"
-      },
-      {
-        "propertyName": "Categories",
-        "propertyValue": "Marketing"
-      }
-    ]
+    {
+      "propertyName": "Website",
+      "propertyValue": "https://www.hubspot.com/"
+    },
+    {
+      "propertyName": "Privacy policy",
+      "propertyValue": "https://legal.hubspot.com/privacy-policy"
+    },
+    {
+      "propertyName": "Categories",
+      "propertyValue": "Marketing"
+    }
+  ]
 }
