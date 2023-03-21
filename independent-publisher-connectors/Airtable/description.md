@@ -1,0 +1,3 @@
+Stay on top of everything and anything with Airtable, the popular spreadsheet-database. You can organize pretty much anything - then edit, comment, and collaborate in real time. From sales leads to vacation planning to inventory management, Airtable makes it easy to manage your workday.
+
+Our Airtable integration lets you create multiple Adaptive Card lists of your data, for example to show records from a base or just a specific view in a base. Simply select your desired data source, and then make modifications to the Adaptive Card's layout if you want to further dial in the look and feel. Enhance your intranet by embedding Airtable data directly into your workflow.

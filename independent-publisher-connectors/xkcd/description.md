@@ -1,0 +1,1 @@
+Xkcd is a "webcomic of romance, sarcasm, math, and language" and a staple of many office whiteboards. Now that we're all working from home, you can relive the magic of work related comics by embedding Xkcd directly on your Board or intranet. Simply pick *Get current comic* and you shall receive it is a big image in your Adaptive Card.

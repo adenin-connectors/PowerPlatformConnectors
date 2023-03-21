@@ -1,0 +1,1 @@
+Clockify is a time tracking software and timesheet app popular with users. It lets you track work hours across different projects, and with our integration you can supercharge what Clockify data you want to use in your intranet. Simply select your data source and you will get Adaptive Card lists of workspaces, projects, user time entries, etc.
